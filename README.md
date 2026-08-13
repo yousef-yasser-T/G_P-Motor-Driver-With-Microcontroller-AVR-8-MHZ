@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/9b147585-faa7-45e8-9bc7-135974b4e8c8
+
 # 🚗 Smart Obstacle-Avoiding Car | سيارة ذكية تتفادى العوائق (AVR)
 
 مشروع **Motor Driver Robot Car** مبني على متحكم AVR (ATmega32/16)، بيتحكم في عربية بأربع عجلات باستخدام موتورين DC، ويقدر يتفادى العوائق أوتوماتيكيًا بمستشعر Ultrasonic، مع إمكانية التحكم اليدوي عن طريق Push Buttons، وعرض الحالة والمسافة على شاشة LCD، وتنبيه صوتي بالـ Buzzer عند اقتراب عائق.
